@@ -1,1 +1,3 @@
-Repository for code for the book I'm working on :)
+# AI and Machine Learning for Coders 
+---
+Repository for original code and my colabcode for practice form AI and Machine Learning for Coders (Laurence Moroney) 
